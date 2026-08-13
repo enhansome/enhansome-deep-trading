@@ -1,0 +1,99 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Social Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "borisbanushev/stockpredictionai",
+          "description": "A notebook for stock price movement prediction using an LSTM generator and CNN discriminator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-19T04:04:58Z",
+            "owner": "borisbanushev",
+            "repo": "stockpredictionai",
+            "stars": 5594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kah-ve/MarketGAN",
+          "description": "Implementing a Generative Adversarial Network on the Stock Market",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-02-24T20:41:33Z",
+            "owner": "kah-ve",
+            "repo": "MarketGAN",
+            "stars": 122
+          }
+        }
+      ],
+      "title": "Generative Adversarial Networks (GANs)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lefnire/tforce_btc_trader",
+          "description": "A TensorForce-based Bitcoin trading bot (algo-trader). Uses deep reinforcement learning to automatically buy/sell/hold BTC based on price history.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-02-13T00:16:41Z",
+            "owner": "lefnire",
+            "repo": "tforce_btc_trader",
+            "stars": 834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "samre12/deep-trading-agent",
+          "description": "Deep Reinforcement Learning-based trading agent for Bitcoin using DeepSense Network for Q function approximation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-06-07T09:12:10Z",
+            "owner": "samre12",
+            "repo": "deep-trading-agent",
+            "stars": 795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThirstyScholar/trading-bitcoin-with-reinforcement-learning",
+          "description": "Trading Bitcoin with Reinforcement Learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-04T05:21:54Z",
+            "owner": "ThirstyScholar",
+            "repo": "trading-bitcoin-with-reinforcement-learning",
+            "stars": 102
+          }
+        }
+      ],
+      "title": "Cryptocurrency"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:11:33.013Z",
+    "original_repository": "cbailes/awesome-deep-trading",
+    "original_repository_sha": "91eee433ec7791915ad20b15330f0eee04798f07",
+    "enhanced_repository": "enhansome/enhansome-deep-trading",
+    "enhanced_repository_description": null,
+    "title": "awesome-deep-trading with stars"
+  }
+}
