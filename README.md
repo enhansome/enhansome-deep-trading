@@ -1,6 +1,6 @@
 # awesome-deep-trading with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,276 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,668 | 🐛 100 | 📅 2026-06-30
 
 List of code, papers, and resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.
 
@@ -174,12 +174,12 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ## Generative Adversarial Networks (GANs)
 
-* [borisbanushev/stockpredictionai](https://github.com/borisbanushev/stockpredictionai) ⭐ 5,594 | 🐛 364 | 🌐 JavaScript | 📅 2025-08-19 - A notebook for stock price movement prediction using an LSTM generator and CNN discriminator
+* [borisbanushev/stockpredictionai](https://github.com/borisbanushev/stockpredictionai) ⭐ 5,593 | 🐛 364 | 🌐 JavaScript | 📅 2025-08-19 - A notebook for stock price movement prediction using an LSTM generator and CNN discriminator
 * [kah-ve/MarketGAN](https://github.com/kah-ve/MarketGAN) ⭐ 122 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2022-02-24 - Implementing a Generative Adversarial Network on the Stock Market
 
 ## Cryptocurrency
 
-* [lefnire/tforce\_btc\_trader](https://github.com/lefnire/tforce_btc_trader) ⭐ 833 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2019-02-13 - A TensorForce-based Bitcoin trading bot (algo-trader). Uses deep reinforcement learning to automatically buy/sell/hold BTC based on price history.
+* [lefnire/tforce\_btc\_trader](https://github.com/lefnire/tforce_btc_trader) ⭐ 832 | 🐛 21 | 🌐 Jupyter Notebook | 📅 2019-02-13 - A TensorForce-based Bitcoin trading bot (algo-trader). Uses deep reinforcement learning to automatically buy/sell/hold BTC based on price history.
 * [samre12/deep-trading-agent](https://github.com/samre12/deep-trading-agent) ⭐ 795 | 🐛 6 | 🌐 Python | 📅 2018-06-07 - Deep Reinforcement Learning-based trading agent for Bitcoin using DeepSense Network for Q function approximation.
 * [ThirstyScholar/trading-bitcoin-with-reinforcement-learning](https://github.com/ThirstyScholar/trading-bitcoin-with-reinforcement-learning) ⭐ 102 | 🐛 7 | 🌐 Python | 📅 2019-09-04 - Trading Bitcoin with Reinforcement Learning
 
@@ -228,4 +228,4 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
