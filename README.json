@@ -1,96 +1,300 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Social Processing"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "borisbanushev/stockpredictionai",
-          "description": "A notebook for stock price movement prediction using an LSTM generator and CNN discriminator",
+          "title": "huseinzol05/Stock-Prediction-Models",
+          "description": "Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations",
           "children": [],
           "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-08-19T04:04:58Z",
-            "owner": "borisbanushev",
-            "repo": "stockpredictionai",
-            "stars": 5594
+            "archived": true,
+            "id": 114629751,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-04-16T22:03:47Z",
+            "owner": "huseinzol05",
+            "repo": "Stock-Prediction-Models",
+            "stars": 9484
           }
         },
         {
           "node_type": "item",
-          "title": "kah-ve/MarketGAN",
-          "description": "Implementing a Generative Adversarial Network on the Stock Market",
+          "title": "Yvictor/TradingGym",
+          "description": "Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-02-24T20:41:33Z",
-            "owner": "kah-ve",
-            "repo": "MarketGAN",
-            "stars": 122
+            "id": 89928104,
+            "language": "Python",
+            "last_commit": "2024-02-11T11:53:21Z",
+            "owner": "Yvictor",
+            "repo": "TradingGym",
+            "stars": 1910
           }
+        },
+        {
+          "node_type": "item",
+          "title": "notadamking/RLTrader",
+          "description": "A cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 183808954,
+            "language": "Python",
+            "last_commit": "2022-01-22T05:01:41Z",
+            "owner": "notadamking",
+            "repo": "RLTrader",
+            "stars": 1868
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZhengyaoJiang/PGPortfolio",
+          "description": "PGPortfolio: Policy Gradient Portfolio, the source code of \"A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110447112,
+            "language": "Python",
+            "last_commit": "2021-10-09T19:16:40Z",
+            "owner": "ZhengyaoJiang",
+            "repo": "PGPortfolio",
+            "stars": 1848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rachnog/Deep-Trading",
+          "description": "Experimental time series forecasting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 61446951,
+            "language": "OpenEdge ABL",
+            "last_commit": "2018-08-07T15:24:46Z",
+            "owner": "Rachnog",
+            "repo": "Deep-Trading",
+            "stars": 1462
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ucaiado/QLearning_Trading",
+          "description": "Trading Using Q-Learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65354885,
+            "language": "Jupyter Notebook",
+            "last_commit": "2016-10-15T02:36:20Z",
+            "owner": "ucaiado",
+            "repo": "QLearning_Trading",
+            "stars": 516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "golsun/deep-RL-trading",
+          "description": "Codebase for paper \"Deep reinforcement learning for time series: playing idealized trading games\" by Xiang Gao",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 122859767,
+            "language": "Python",
+            "last_commit": "2021-06-15T11:30:07Z",
+            "owner": "golsun",
+            "repo": "deep-RL-trading",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yuriak/RLQuant",
+          "description": "Applying Reinforcement Learning in Quantitative Trading (Policy Gradient, Direct RL)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 128164090,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-02-14T17:53:00Z",
+            "owner": "yuriak",
+            "repo": "RLQuant",
+            "stars": 357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jiewwantan/StarTrader",
+          "description": "Trains an agent to trade like a human using a deep reinforcement learning algorithm: deep deterministic policy gradient (DDPG) learning algorithm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 173674662,
+            "language": "Python",
+            "last_commit": "2019-09-12T21:24:15Z",
+            "owner": "jiewwantan",
+            "repo": "StarTrader",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "laikasinjason/deep-q-learning-trading-system-on-hk-stocks-market",
+          "description": "Deep Q learning implementation on the Hong Kong Stock Exchange",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170536538,
+            "language": "Python",
+            "last_commit": "2019-05-21T15:42:55Z",
+            "owner": "laikasinjason",
+            "repo": "deep-q-learning-trading-system-on-hk-stocks-market",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ha2emnomer/Deep-Trading",
+          "description": "Keras-based LSTM RNN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 61740702,
+            "language": "Python",
+            "last_commit": "2016-06-23T11:32:57Z",
+            "owner": "ha2emnomer",
+            "repo": "Deep-Trading",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rosdyana/CNN-Financial-Data",
+          "description": "Deep Trading using a Convolutional Neural Network",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 103889610,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-09-25T09:35:44Z",
+            "owner": "rosdyana",
+            "repo": "CNN-Financial-Data",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iamSTone/Deep-trader-CNN-kospi200futures",
+          "description": "Kospi200 index futures Prediction using CNN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70299771,
+            "language": "Jupyter Notebook",
+            "last_commit": "2016-10-10T01:32:02Z",
+            "owner": "iamSTone",
+            "repo": "Deep-trader-CNN-kospi200futures",
+            "stars": 10
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "borisbanushev/stockpredictionai",
+              "description": "A notebook for stock price movement prediction using an LSTM generator and CNN discriminator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164816947,
+                "language": "JavaScript",
+                "last_commit": "2025-08-19T04:04:58Z",
+                "owner": "borisbanushev",
+                "repo": "stockpredictionai",
+                "stars": 5594
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kah-ve/MarketGAN",
+              "description": "Implementing a Generative Adversarial Network on the Stock Market",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165770321,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-02-24T20:41:33Z",
+                "owner": "kah-ve",
+                "repo": "MarketGAN",
+                "stars": 122
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Generative Adversarial Networks (GANs)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lefnire/tforce_btc_trader",
+              "description": "A TensorForce-based Bitcoin trading bot (algo-trader). Uses deep reinforcement learning to automatically buy/sell/hold BTC based on price history.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101094169,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-02-13T00:16:41Z",
+                "owner": "lefnire",
+                "repo": "tforce_btc_trader",
+                "stars": 832
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "samre12/deep-trading-agent",
+              "description": "Deep Reinforcement Learning-based trading agent for Bitcoin using DeepSense Network for Q function approximation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104375957,
+                "language": "Python",
+                "last_commit": "2018-06-07T09:12:10Z",
+                "owner": "samre12",
+                "repo": "deep-trading-agent",
+                "stars": 796
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ThirstyScholar/trading-bitcoin-with-reinforcement-learning",
+              "description": "Trading Bitcoin with Reinforcement Learning",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131604780,
+                "language": "Python",
+                "last_commit": "2019-09-04T05:21:54Z",
+                "owner": "ThirstyScholar",
+                "repo": "trading-bitcoin-with-reinforcement-learning",
+                "stars": 102
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cryptocurrency"
         }
       ],
-      "title": "Generative Adversarial Networks (GANs)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "lefnire/tforce_btc_trader",
-          "description": "A TensorForce-based Bitcoin trading bot (algo-trader). Uses deep reinforcement learning to automatically buy/sell/hold BTC based on price history.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2019-02-13T00:16:41Z",
-            "owner": "lefnire",
-            "repo": "tforce_btc_trader",
-            "stars": 832
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "samre12/deep-trading-agent",
-          "description": "Deep Reinforcement Learning-based trading agent for Bitcoin using DeepSense Network for Q function approximation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-06-07T09:12:10Z",
-            "owner": "samre12",
-            "repo": "deep-trading-agent",
-            "stars": 795
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ThirstyScholar/trading-bitcoin-with-reinforcement-learning",
-          "description": "Trading Bitcoin with Reinforcement Learning",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-09-04T05:21:54Z",
-            "owner": "ThirstyScholar",
-            "repo": "trading-bitcoin-with-reinforcement-learning",
-            "stars": 102
-          }
-        }
-      ],
-      "title": "Cryptocurrency"
+      "title": "Repositories"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:38:45.142Z",
+    "last_updated": "2026-08-19T12:24:53.252Z",
     "original_repository": "cbailes/awesome-deep-trading",
+    "original_repository_id": 159104156,
     "original_repository_sha": "91eee433ec7791915ad20b15330f0eee04798f07",
     "enhanced_repository": "enhansome/enhansome-deep-trading",
     "enhanced_repository_description": null,
