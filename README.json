@@ -60,7 +60,7 @@
             "last_commit": "2021-10-09T19:16:40Z",
             "owner": "ZhengyaoJiang",
             "repo": "PGPortfolio",
-            "stars": 1848
+            "stars": 1849
           }
         },
         {
@@ -212,7 +212,7 @@
                 "last_commit": "2025-08-19T04:04:58Z",
                 "owner": "borisbanushev",
                 "repo": "stockpredictionai",
-                "stars": 5592
+                "stars": 5593
               }
             },
             {
@@ -249,7 +249,7 @@
                 "last_commit": "2019-02-13T00:16:41Z",
                 "owner": "lefnire",
                 "repo": "tforce_btc_trader",
-                "stars": 832
+                "stars": 833
               }
             },
             {
@@ -292,7 +292,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:51:38.770Z",
+    "last_updated": "2026-08-26T16:24:20.418Z",
     "original_repository": "cbailes/awesome-deep-trading",
     "original_repository_id": 159104156,
     "original_repository_sha": "91eee433ec7791915ad20b15330f0eee04798f07",
