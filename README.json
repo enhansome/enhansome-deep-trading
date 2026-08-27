@@ -15,7 +15,7 @@
             "last_commit": "2023-04-16T22:03:47Z",
             "owner": "huseinzol05",
             "repo": "Stock-Prediction-Models",
-            "stars": 9480
+            "stars": 9481
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-02-11T11:53:21Z",
             "owner": "Yvictor",
             "repo": "TradingGym",
-            "stars": 1910
+            "stars": 1912
           }
         },
         {
@@ -292,9 +292,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:24:20.418Z",
-    "original_repository": "cbailes/awesome-deep-trading",
-    "original_repository_id": 159104156,
+    "last_updated": "2026-08-27T11:32:34.004Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 159104156,
+      "language": null,
+      "last_commit": "2023-08-08T19:55:49Z",
+      "owner": "cbailes",
+      "repo": "awesome-deep-trading",
+      "stars": 2033
+    },
     "original_repository_sha": "91eee433ec7791915ad20b15330f0eee04798f07",
     "enhanced_repository": "enhansome/enhansome-deep-trading",
     "enhanced_repository_description": null,
