@@ -347,7 +347,7 @@
                 "open_issues": 364,
                 "owner": "borisbanushev",
                 "repo": "stockpredictionai",
-                "stars": 5594,
+                "stars": 5595,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:03.109Z"
@@ -462,7 +462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T18:19:15.168Z",
+    "last_updated": "2026-08-30T18:32:46.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for machine learning-based algorithmic trading",
