@@ -1,6 +1,6 @@
 # awesome-deep-trading with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,334 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,649 | 🐛 105 | 📅 2026-09-02
 
 List of code, papers, and resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.
 
@@ -159,14 +159,14 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [huseinzol05/Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) ⚠️ Archived - Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations
 * [Yvictor/TradingGym](https://github.com/Yvictor/TradingGym) ⭐ 1,915 | 🐛 11 | 🌐 Python | 📅 2024-02-11 - Trading and Backtesting environment for training reinforcement learning agent or simple rule base algo
 * [notadamking/RLTrader](https://github.com/notadamking/RLTrader) ⭐ 1,867 | 🐛 43 | 🌐 Python | 📅 2022-01-22 - A cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym
-* [ZhengyaoJiang/PGPortfolio](https://github.com/ZhengyaoJiang/PGPortfolio) ⭐ 1,849 | 🐛 56 | 🌐 Python | 📅 2021-10-09 - PGPortfolio: Policy Gradient Portfolio, the source code of "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem"
+* [ZhengyaoJiang/PGPortfolio](https://github.com/ZhengyaoJiang/PGPortfolio) ⭐ 1,850 | 🐛 56 | 🌐 Python | 📅 2021-10-09 - PGPortfolio: Policy Gradient Portfolio, the source code of "A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem"
 * [Rachnog/Deep-Trading](https://github.com/Rachnog/Deep-Trading) ⭐ 1,462 | 🐛 14 | 🌐 OpenEdge ABL | 📅 2018-08-07 - Experimental time series forecasting
-* [ucaiado/QLearning\_Trading](https://github.com/ucaiado/QLearning_Trading) ⭐ 516 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2016-10-15 - Trading Using Q-Learning
+* [ucaiado/QLearning\_Trading](https://github.com/ucaiado/QLearning_Trading) ⭐ 517 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2016-10-15 - Trading Using Q-Learning
 * [golsun/deep-RL-trading](https://github.com/golsun/deep-RL-trading) ⭐ 360 | 🐛 3 | 🌐 Python | 📅 2021-06-15 - Codebase for paper "Deep reinforcement learning for time series: playing idealized trading games" by Xiang Gao
-* [yuriak/RLQuant](https://github.com/yuriak/RLQuant) ⭐ 357 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-02-14 - Applying Reinforcement Learning in Quantitative Trading (Policy Gradient, Direct RL)
+* [yuriak/RLQuant](https://github.com/yuriak/RLQuant) ⭐ 358 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-02-14 - Applying Reinforcement Learning in Quantitative Trading (Policy Gradient, Direct RL)
 * [jiewwantan/StarTrader](https://github.com/jiewwantan/StarTrader) ⭐ 110 | 🐛 2 | 🌐 Python | 📅 2019-09-12 - Trains an agent to trade like a human using a deep reinforcement learning algorithm: deep deterministic policy gradient (DDPG) learning algorithm
 * [laikasinjason/deep-q-learning-trading-system-on-hk-stocks-market](https://github.com/laikasinjason/deep-q-learning-trading-system-on-hk-stocks-market) ⭐ 51 | 🐛 2 | 🌐 Python | 📅 2019-05-21 - Deep Q learning implementation on the Hong Kong Stock Exchange
-* [ha2emnomer/Deep-Trading](https://github.com/ha2emnomer/Deep-Trading) ⭐ 37 | 🐛 1 | 🌐 Python | 📅 2016-06-23 - Keras-based LSTM RNN
+* [ha2emnomer/Deep-Trading](https://github.com/ha2emnomer/Deep-Trading) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2016-06-23 - Keras-based LSTM RNN
 * [rosdyana/CNN-Financial-Data](https://github.com/rosdyana/CNN-Financial-Data) ⭐ 29 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2017-09-25 - Deep Trading using a Convolutional Neural Network
 * [iamSTone/Deep-trader-CNN-kospi200futures](https://github.com/iamSTone/Deep-trader-CNN-kospi200futures) ⭐ 10 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2016-10-10 - Kospi200 index futures Prediction using CNN
 * [jobvisser03/deep-trading-advisor](https://github.com/jobvisser03/deep-trading-advisor) - Deep Trading Advisor uses MLP, CNN, and RNN+LSTM with Keras, zipline, Dash and Plotly
@@ -228,4 +228,4 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._

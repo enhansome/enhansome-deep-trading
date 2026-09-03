@@ -109,7 +109,7 @@
             "open_issues": 56,
             "owner": "ZhengyaoJiang",
             "repo": "PGPortfolio",
-            "stars": 1849,
+            "stars": 1850,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:03.109Z"
@@ -151,7 +151,7 @@
             "open_issues": 0,
             "owner": "ucaiado",
             "repo": "QLearning_Trading",
-            "stars": 516,
+            "stars": 517,
             "topics": [
               "agent-based-modeling",
               "machine-learning",
@@ -211,7 +211,7 @@
             "open_issues": 5,
             "owner": "yuriak",
             "repo": "RLQuant",
-            "stars": 357,
+            "stars": 358,
             "topics": [
               "finance-market-trading",
               "portfolio-management",
@@ -279,7 +279,7 @@
             "open_issues": 1,
             "owner": "ha2emnomer",
             "repo": "Deep-Trading",
-            "stars": 37,
+            "stars": 38,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:03.109Z"
@@ -462,7 +462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:32:29.815Z",
+    "last_updated": "2026-09-03T18:29:20.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for machine learning-based algorithmic trading",
@@ -474,7 +474,7 @@
       "open_issues": 16,
       "owner": "cbailes",
       "repo": "awesome-deep-trading",
-      "stars": 2034,
+      "stars": 2036,
       "topics": [
         "cryptocurrency",
         "deep-learning",
