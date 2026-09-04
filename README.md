@@ -1,6 +1,6 @@
 # awesome-deep-trading with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,649 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,981 | 🐛 106 | 📅 2026-09-02
 
 List of code, papers, and resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.
 
@@ -174,7 +174,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ## Generative Adversarial Networks (GANs)
 
-* [borisbanushev/stockpredictionai](https://github.com/borisbanushev/stockpredictionai) ⭐ 5,599 | 🐛 364 | 🌐 JavaScript | 📅 2025-08-19 - A notebook for stock price movement prediction using an LSTM generator and CNN discriminator
+* [borisbanushev/stockpredictionai](https://github.com/borisbanushev/stockpredictionai) ⭐ 5,600 | 🐛 364 | 🌐 JavaScript | 📅 2025-08-19 - A notebook for stock price movement prediction using an LSTM generator and CNN discriminator
 * [kah-ve/MarketGAN](https://github.com/kah-ve/MarketGAN) ⭐ 122 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2022-02-24 - Implementing a Generative Adversarial Network on the Stock Market
 
 ## Cryptocurrency
@@ -228,4 +228,4 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
