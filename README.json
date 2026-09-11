@@ -56,7 +56,7 @@
             "open_issues": 11,
             "owner": "Yvictor",
             "repo": "TradingGym",
-            "stars": 1919,
+            "stars": 1920,
             "topics": [
               "backtest",
               "backtesting-trading-strategies",
@@ -109,7 +109,7 @@
             "open_issues": 56,
             "owner": "ZhengyaoJiang",
             "repo": "PGPortfolio",
-            "stars": 1851,
+            "stars": 1850,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:03.109Z"
@@ -462,7 +462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T18:16:59.456Z",
+    "last_updated": "2026-09-11T18:21:14.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for machine learning-based algorithmic trading",
@@ -474,7 +474,7 @@
       "open_issues": 16,
       "owner": "cbailes",
       "repo": "awesome-deep-trading",
-      "stars": 2039,
+      "stars": 2042,
       "topics": [
         "cryptocurrency",
         "deep-learning",
