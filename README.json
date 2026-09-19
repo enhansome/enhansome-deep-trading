@@ -56,7 +56,7 @@
             "open_issues": 11,
             "owner": "Yvictor",
             "repo": "TradingGym",
-            "stars": 1920,
+            "stars": 1919,
             "topics": [
               "backtest",
               "backtesting-trading-strategies",
@@ -109,7 +109,7 @@
             "open_issues": 56,
             "owner": "ZhengyaoJiang",
             "repo": "PGPortfolio",
-            "stars": 1851,
+            "stars": 1850,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:03.109Z"
@@ -211,7 +211,7 @@
             "open_issues": 5,
             "owner": "yuriak",
             "repo": "RLQuant",
-            "stars": 358,
+            "stars": 359,
             "topics": [
               "finance-market-trading",
               "portfolio-management",
@@ -347,7 +347,7 @@
                 "open_issues": 365,
                 "owner": "borisbanushev",
                 "repo": "stockpredictionai",
-                "stars": 5604,
+                "stars": 5603,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:03.109Z"
@@ -396,7 +396,7 @@
                 "open_issues": 21,
                 "owner": "lefnire",
                 "repo": "tforce_btc_trader",
-                "stars": 831,
+                "stars": 832,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:03.109Z"
@@ -462,7 +462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T18:16:58.447Z",
+    "last_updated": "2026-09-19T17:54:48.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for machine learning-based algorithmic trading",
