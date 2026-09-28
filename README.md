@@ -1,6 +1,6 @@
 # awesome-deep-trading with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,380 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,959 | 🐛 106 | 📅 2026-09-02
 
 List of code, papers, and resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.
 
@@ -205,7 +205,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ## Courses
 
-* [Artificial Intelligence for Trading (ND880) nanodegree at Udacity](https://www.udacity.com/course/ai-for-trading--nd880) (+[GitHub code repo](https://github.com/udacity/artificial-intelligence-for-trading) ⭐ 775 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2023-04-09)
+* [Artificial Intelligence for Trading (ND880) nanodegree at Udacity](https://www.udacity.com/course/ai-for-trading--nd880) (+[GitHub code repo](https://github.com/udacity/artificial-intelligence-for-trading) ⭐ 776 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2023-04-09)
 * [Neural Networks in Trading course by Dr. Ernest P. Chan at Quantra](https://quantra.quantinsti.com/course/neural-networks-deep-learning-trading-ernest-chan)
 * [Machine Learning and Reinforcement Learning in Finance Specialization by NYU at Coursera](https://www.coursera.org/specializations/machine-learning-reinforcement-finance)
 
@@ -228,4 +228,4 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
