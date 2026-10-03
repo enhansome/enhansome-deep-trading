@@ -1,6 +1,6 @@
 # awesome-deep-trading with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,056 | 🐛 107 | 📅 2026-09-02
 
 List of code, papers, and resources for AI/deep learning/machine learning/neural networks applied to algorithmic trading.
 

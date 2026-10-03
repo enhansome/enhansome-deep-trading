@@ -462,7 +462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:39:35.166Z",
+    "last_updated": "2026-10-03T18:38:01.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for machine learning-based algorithmic trading",
@@ -474,7 +474,7 @@
       "open_issues": 17,
       "owner": "cbailes",
       "repo": "awesome-deep-trading",
-      "stars": 2046,
+      "stars": 2047,
       "topics": [
         "cryptocurrency",
         "deep-learning",
