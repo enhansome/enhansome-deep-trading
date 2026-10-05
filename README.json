@@ -56,7 +56,7 @@
             "open_issues": 11,
             "owner": "Yvictor",
             "repo": "TradingGym",
-            "stars": 1920,
+            "stars": 1921,
             "topics": [
               "backtest",
               "backtesting-trading-strategies",
@@ -130,7 +130,7 @@
             "open_issues": 14,
             "owner": "Rachnog",
             "repo": "Deep-Trading",
-            "stars": 1464,
+            "stars": 1462,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:03.109Z"
@@ -396,7 +396,7 @@
                 "open_issues": 21,
                 "owner": "lefnire",
                 "repo": "tforce_btc_trader",
-                "stars": 833,
+                "stars": 831,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:03.109Z"
@@ -462,7 +462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:35:38.057Z",
+    "last_updated": "2026-10-05T21:57:03.966Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for machine learning-based algorithmic trading",
@@ -474,7 +474,7 @@
       "open_issues": 17,
       "owner": "cbailes",
       "repo": "awesome-deep-trading",
-      "stars": 2047,
+      "stars": 2045,
       "topics": [
         "cryptocurrency",
         "deep-learning",
