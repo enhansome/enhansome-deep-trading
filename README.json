@@ -88,7 +88,7 @@
             "open_issues": 43,
             "owner": "notadamking",
             "repo": "RLTrader",
-            "stars": 1869,
+            "stars": 1868,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:03.109Z"
@@ -130,7 +130,7 @@
             "open_issues": 14,
             "owner": "Rachnog",
             "repo": "Deep-Trading",
-            "stars": 1464,
+            "stars": 1463,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:03.109Z"
@@ -347,7 +347,7 @@
                 "open_issues": 365,
                 "owner": "borisbanushev",
                 "repo": "stockpredictionai",
-                "stars": 5599,
+                "stars": 5598,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:03.109Z"
@@ -417,7 +417,7 @@
                 "open_issues": 6,
                 "owner": "samre12",
                 "repo": "deep-trading-agent",
-                "stars": 797,
+                "stars": 796,
                 "topics": [
                   "agent",
                   "artificial-intelligence",
@@ -462,7 +462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T19:27:00.871Z",
+    "last_updated": "2026-10-12T22:27:38.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for machine learning-based algorithmic trading",
