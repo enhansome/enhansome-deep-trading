@@ -88,7 +88,7 @@
             "open_issues": 43,
             "owner": "notadamking",
             "repo": "RLTrader",
-            "stars": 1869,
+            "stars": 1868,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:03.109Z"
@@ -344,7 +344,7 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2025-08-19T04:04:58Z",
-                "open_issues": 365,
+                "open_issues": 364,
                 "owner": "borisbanushev",
                 "repo": "stockpredictionai",
                 "stars": 5601,
@@ -462,7 +462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T19:12:12.115Z",
+    "last_updated": "2026-10-22T19:07:36.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for machine learning-based algorithmic trading",
