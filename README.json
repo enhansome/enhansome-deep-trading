@@ -19,7 +19,7 @@
             "open_issues": 47,
             "owner": "huseinzol05",
             "repo": "Stock-Prediction-Models",
-            "stars": 9507,
+            "stars": 9508,
             "topics": [
               "deep-learning",
               "deep-learning-stock",
@@ -56,7 +56,7 @@
             "open_issues": 11,
             "owner": "Yvictor",
             "repo": "TradingGym",
-            "stars": 1924,
+            "stars": 1925,
             "topics": [
               "backtest",
               "backtesting-trading-strategies",
@@ -462,7 +462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T19:07:36.087Z",
+    "last_updated": "2026-10-23T19:02:50.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for machine learning-based algorithmic trading",
@@ -474,7 +474,7 @@
       "open_issues": 18,
       "owner": "cbailes",
       "repo": "awesome-deep-trading",
-      "stars": 2054,
+      "stars": 2055,
       "topics": [
         "cryptocurrency",
         "deep-learning",
