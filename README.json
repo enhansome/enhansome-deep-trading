@@ -151,7 +151,7 @@
             "open_issues": 0,
             "owner": "ucaiado",
             "repo": "QLearning_Trading",
-            "stars": 517,
+            "stars": 516,
             "topics": [
               "agent-based-modeling",
               "machine-learning",
@@ -462,7 +462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T20:11:18.254Z",
+    "last_updated": "2026-10-29T20:10:29.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for machine learning-based algorithmic trading",
