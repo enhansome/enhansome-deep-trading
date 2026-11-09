@@ -19,7 +19,7 @@
             "open_issues": 47,
             "owner": "huseinzol05",
             "repo": "Stock-Prediction-Models",
-            "stars": 9509,
+            "stars": 9510,
             "topics": [
               "deep-learning",
               "deep-learning-stock",
@@ -88,7 +88,7 @@
             "open_issues": 43,
             "owner": "notadamking",
             "repo": "RLTrader",
-            "stars": 1866,
+            "stars": 1867,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:03.109Z"
@@ -130,7 +130,7 @@
             "open_issues": 14,
             "owner": "Rachnog",
             "repo": "Deep-Trading",
-            "stars": 1464,
+            "stars": 1465,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:03.109Z"
@@ -347,7 +347,7 @@
                 "open_issues": 364,
                 "owner": "borisbanushev",
                 "repo": "stockpredictionai",
-                "stars": 5605,
+                "stars": 5606,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:03.109Z"
@@ -444,7 +444,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2019-09-04T05:21:54Z",
-                "open_issues": 8,
+                "open_issues": 7,
                 "owner": "ThirstyScholar",
                 "repo": "trading-bitcoin-with-reinforcement-learning",
                 "stars": 102,
@@ -462,7 +462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:27:54.289Z",
+    "last_updated": "2026-11-09T23:44:30.391Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for machine learning-based algorithmic trading",
@@ -474,7 +474,7 @@
       "open_issues": 18,
       "owner": "cbailes",
       "repo": "awesome-deep-trading",
-      "stars": 2063,
+      "stars": 2064,
       "topics": [
         "cryptocurrency",
         "deep-learning",
