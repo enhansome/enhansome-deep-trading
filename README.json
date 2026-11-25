@@ -88,7 +88,7 @@
             "open_issues": 43,
             "owner": "notadamking",
             "repo": "RLTrader",
-            "stars": 1866,
+            "stars": 1867,
             "topics": []
           },
           "first_seen": "2026-08-28T23:59:03.109Z"
@@ -163,6 +163,32 @@
         },
         {
           "node_type": "item",
+          "title": "yuriak/RLQuant",
+          "description": "Applying Reinforcement Learning in Quantitative Trading (Policy Gradient, Direct RL)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Applying Reinforcement Learning in Quantitative Trading",
+            "homepage": null,
+            "id": 128164090,
+            "language": "Jupyter Notebook",
+            "license": null,
+            "last_commit": "2024-02-14T17:53:00Z",
+            "open_issues": 5,
+            "owner": "yuriak",
+            "repo": "RLQuant",
+            "stars": 360,
+            "topics": [
+              "finance-market-trading",
+              "portfolio-management",
+              "reinforcement-learning",
+              "trading"
+            ]
+          },
+          "first_seen": "2026-08-28T23:59:03.109Z"
+        },
+        {
+          "node_type": "item",
           "title": "golsun/deep-RL-trading",
           "description": "Codebase for paper \"Deep reinforcement learning for time series: playing idealized trading games\" by Xiang Gao",
           "children": [],
@@ -190,32 +216,6 @@
               "stock",
               "stock-market",
               "time-series",
-              "trading"
-            ]
-          },
-          "first_seen": "2026-08-28T23:59:03.109Z"
-        },
-        {
-          "node_type": "item",
-          "title": "yuriak/RLQuant",
-          "description": "Applying Reinforcement Learning in Quantitative Trading (Policy Gradient, Direct RL)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Applying Reinforcement Learning in Quantitative Trading",
-            "homepage": null,
-            "id": 128164090,
-            "language": "Jupyter Notebook",
-            "license": null,
-            "last_commit": "2024-02-14T17:53:00Z",
-            "open_issues": 5,
-            "owner": "yuriak",
-            "repo": "RLQuant",
-            "stars": 359,
-            "topics": [
-              "finance-market-trading",
-              "portfolio-management",
-              "reinforcement-learning",
               "trading"
             ]
           },
@@ -344,10 +344,10 @@
                 "language": "JavaScript",
                 "license": null,
                 "last_commit": "2025-08-19T04:04:58Z",
-                "open_issues": 364,
+                "open_issues": 363,
                 "owner": "borisbanushev",
                 "repo": "stockpredictionai",
-                "stars": 5607,
+                "stars": 5608,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:03.109Z"
@@ -462,7 +462,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:49:46.214Z",
+    "last_updated": "2026-11-25T23:32:05.194Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of awesome resources for machine learning-based algorithmic trading",
@@ -471,7 +471,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2023-08-08T19:55:49Z",
-      "open_issues": 17,
+      "open_issues": 16,
       "owner": "cbailes",
       "repo": "awesome-deep-trading",
       "stars": 2070,
